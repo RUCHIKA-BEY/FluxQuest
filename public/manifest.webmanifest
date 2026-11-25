@@ -1,0 +1,9 @@
+{
+  "name": "FluxQuest — The Slow-Motion Magnet",
+  "short_name": "FluxQuest",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#16100D",
+  "theme_color": "#16100D",
+  "icons": [{ "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}
